@@ -130,7 +130,7 @@ function createContext(contextKey, filter, ignoreKey = '') {
     .forEach((key) => {
       var k = filter.strip ? key.substring(filter.prefix.length) : key;
       ctx[k] = process.env[key];
-      core.debug(k + '="' + process.env[key]) + '"';
+      core.debug(k + '="' + process.env[key] + '"');
     });
 
   ctx['key'] = contextKey;
