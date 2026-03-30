@@ -34,7 +34,7 @@
     "@babel/preset-env": "^7.18.2",
     "@vercel/ncc": "^0.38.0",
     "action-docs": "^1.0.4",
-    "babel-jest": "^29.0.0",
+    "babel-jest": "^30.2.0",
     "eslint": "^8.17.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-import": "^2.26.0",
