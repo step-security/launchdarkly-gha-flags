@@ -1,3 +1,5 @@
+[![StepSecurity Maintained Action](https://raw.githubusercontent.com/step-security/maintained-actions-assets/main/assets/maintained-action-banner.png)](https://docs.stepsecurity.io/actions/stepsecurity-maintained-actions)
+
 # LaunchDarkly Flag Evaluation GitHub Action
 
 GitHub Action for evaluating LaunchDarkly flags in your workflow.
