@@ -1,0 +1,17 @@
+{
+  "$comment": "Managed automatically when syncing with upstream. Do not edit by hand.",
+  "schema_version": 1,
+  "onboarding_type": "copied",
+  "action_type": "node",
+  "upstream": {
+    "repository": "launchdarkly/gha-flags",
+    "synced_tag": "v1.1.0",
+    "synced_commit": "954b511cd89e695df6f024a3e5db75d37764420c",
+    "archived": false
+  },
+  "build": {
+    "package_manager": "npm@11.19.0",
+    "node_version": "24",
+    "script": "build"
+  }
+}
